@@ -1,0 +1,6 @@
+__pycache__/
+data/
+darknet/
+coco/
+models/
+hmdb51_org.rar
